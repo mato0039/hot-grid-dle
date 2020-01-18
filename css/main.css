@@ -45,8 +45,5 @@ figure {
   max-width: 15em;
   padding: 1rem;
   position: absolute;
-}
-
-figure:nth-child(3) {
-  display: none;
+  width: 100%;
 }
