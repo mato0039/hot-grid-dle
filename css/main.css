@@ -39,9 +39,9 @@ figure {
 .caption {
   background-color: rgba(0, 0, 0, .5);
   border-radius: 10px;
-  bottom: 10px;
+  bottom: .5rem;
   color: #fff;
-  left: 10px;
+  left: .5rem;
   max-width: 15em;
   padding: 1rem;
   position: absolute;
